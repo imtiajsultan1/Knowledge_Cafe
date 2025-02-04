@@ -1,0 +1,55 @@
+
+
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/nN7Dwrfj/Black-and-Blue-Simple-Business-Facebook-Cover.png",
+      "title": "The Art of Coding",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co.com/67G8SL8y/Green-Gradient-Minimalist-Business-Linked-In-Profile-Picture.png",
+      "posted_date": "2025-02-03",
+      "reading_time": 10,
+      "hashtags": ["coding", "programming", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/B5K6MKmR/Coming-Soon-Minimalist-Facebook-Cover.png",
+      "title": "Mastering JavaScript",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co.com/p68Rm5gx/Purple-Black-and-White-Cool-Creative-Linked-In-Profile-Picture.png",
+      "posted_date": "2025-01-28",
+      "reading_time": 8,
+      "hashtags": ["javascript", "webdev", "frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/k6s7bFPY/Green-and-White-Photo-Organic-Quote-Facebook-Cover.png",
+      "title": "The Future of AI",
+      "author": "Alice Brown",
+      "author_img": "https://i.ibb.co.com/xqdwKNTk/Neon-Purple-Pixels-Creative-Industry-Professional-Linked-In-Profile-Picture.png",
+      "posted_date": "2025-01-20",
+      "reading_time": 12,
+      "hashtags": ["AI", "machinelearning", "future"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/prjYwdJD/Simple-Photocentric-Travel-Facebook-Cover.png",
+      "title": "Web Design Principles",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co.com/SXC9VTTS/Black-Simple-Bold-Professional-Business-Twitter-Profile-Picture.png",
+      "posted_date": "2025-01-15",
+      "reading_time": 7,
+      "hashtags": ["webdesign", "UX", "UI"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/GfQqLJ0R/Pink-Photo-Collage-Beauty-Influencer-Blog-Facebook-Cover.png",
+      "title": "Cybersecurity Essentials",
+      "author": "Sophia Martinez",
+      "author_img": "https://i.ibb.co.com/nsC2kMcb/Gold-Elegant-Aesthetic-Feminine-Twitter-Profile-Picture.png",
+      "posted_date": "2025-01-10",
+      "reading_time": 9,
+      "hashtags": ["cybersecurity", "infosec", "privacy"]
+    }
+  ]
+  
