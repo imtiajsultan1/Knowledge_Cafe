@@ -8,7 +8,7 @@ const Blog = ({blog, handleAddToBookmark, handleMarkAsRead}) => {
             <img className="w-full mb-8 rounded-xl" src={cover} alt="" />
             <div className="flex justify-between">
                 <div className="flex gap-6 mb-4">
-                    <img src={author_img} className="rounded-full w-14" alt="" />
+                    <img src={author_img} className="rounded-full w-14 h-14" alt="" />
                     <div className="flex flex-col">
                         <h3 className="text-2xl">{author}</h3>
                         <p>{posted_date}</p>
