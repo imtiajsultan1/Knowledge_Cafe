@@ -11,8 +11,16 @@ function App() {
 
 
   const handleAddToBookmark = blog =>{
-    const newBookmarks = [...bookmarks, blog]
-    setBookmarks(newBookmarks)
+    // check if already exist 
+    const isAlreadyBookmarked  = bookmarks.some(item => item.id == blog.id);
+    if(!isAlreadyBookmarked){
+      const newBookmarks = [...bookmarks, blog]
+      setBookmarks(newBookmarks)
+    }
+    else {
+      alert("Blog is already bookmarked!");
+    }
+    
   }
 
   const handleMarkAsRead = (time, id) =>{
